@@ -69,3 +69,15 @@ if "_" in title:
 print(title)
 
 "job_title".replace("_", " ")
+#%%
+my_dict = {}
+
+my_dict.keys()
+my_dict['float'] = 1
+my_dict['object'] = 2
+my_dict['int'] = 3
+
+#max(my_dict.values())
+a = my_dict.items()
+
+
