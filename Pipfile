@@ -10,6 +10,10 @@ matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
 openpyxl = "*"
+plotly-express = "*"
+nbformat = "*"
+python-dotenv = "*"
+kaleido = "*"
 
 [dev-packages]
 
