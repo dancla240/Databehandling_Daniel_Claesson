@@ -14,6 +14,7 @@ plotly-express = "*"
 nbformat = "*"
 python-dotenv = "*"
 kaleido = "*"
+dash = "*"
 
 [dev-packages]
 
