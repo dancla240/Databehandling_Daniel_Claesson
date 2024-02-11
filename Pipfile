@@ -14,11 +14,9 @@ plotly-express = "*"
 nbformat = "*"
 python-dotenv = "*"
 kaleido = "*"
-<<<<<<< HEAD
 dash = "*"
 dash-bootstrap-components = "*"
-=======
->>>>>>> 11f1e0cdbc1dc29a224d61cc17890d40dae2eefa
+dash-bootstrap-templates = "*"
 
 [dev-packages]
 
